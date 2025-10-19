@@ -9,6 +9,9 @@ Treinamento intensivo com mentorias ao vivo de 03/10/2025 a 05/12/2025.
 ## 📖 Material das Aulas
 https://drive.google.com/drive/folders/1QvUklxS6VJ9pVd9LD9JARe7cfaTrn_qi
 
+Materiais Complementares
+https://docs.google.com/document/d/1n_jh92rQKdqnQNNnAM-bSa5WkrKOIsmwIX6-8LZ3Gmw/edit?tab=t.0
+
 ## 📖 Dica de Livro
 Test-Driven Development (Teste e Design no Mundo Real)
 https://www.casadocodigo.com.br/products/livro-tdd
