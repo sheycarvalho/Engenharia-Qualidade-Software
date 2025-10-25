@@ -34,7 +34,17 @@ https://docs.google.com/forms/d/e/1FAIpQLSfJqHwvAT2379Z9p8UxOXthmZmkfTiWTc0IAlzU
 |  24/10/2025      | Trilha 3: Automação de Testes web                                   |
 |  29/10/2025      | Trilha 4: Automação de Testes de API                                |
 |  31/10/2025      | Trilha 5: Testes de Perfomance                                      |
-|  06/10/2025      | Trilha 6: QA em ambientes DevOps                                    |
+|  06/11/2025      | Trilha 6: QA em ambientes DevOps                                    |
 |  07/11/2025      | Trilha 7: Inteligência Artificial Aplicada a Testes                 |
 
 ---
+
+## 🔧 Ferramentas
+IntelliJ IDEA Ultimate: https://www.jetbrains.com/idea/download/?section=windows
+
+Playwright Documentação: https://playwright.dev/
+
+Cypress Documentação: https://www.cypress.io/#create
+
+Selenium Documentação: https://www.selenium.dev/documentation/overview/
+
