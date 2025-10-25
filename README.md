@@ -48,3 +48,6 @@ Cypress Documentação: https://www.cypress.io/#create
 
 Selenium Documentação: https://www.selenium.dev/documentation/overview/
 
+## 🤖 Referência do Projeto de Automação
+https://db.pokemongohub.net/pt
+
